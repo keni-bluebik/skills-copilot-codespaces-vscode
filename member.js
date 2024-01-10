@@ -10,3 +10,4 @@ function skillsMember() {
     contact.style.display = "none";
     about.style.display = "none";
 }
+
